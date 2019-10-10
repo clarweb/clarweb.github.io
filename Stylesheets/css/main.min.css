@@ -109,7 +109,7 @@ h3 span {
     color: #fc490c
 }
 .sticky {
-    z-index: 100000;
+    z-index: 1000;
     padding: 12px 0;
     background: #fff;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1)
